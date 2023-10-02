@@ -5,7 +5,8 @@ body{background-color:darkseagreen;
 ul{text-align:left;
 color:firebrick;}
 
-p{text-transform:uppercase;}
+p{text-transform:uppercase;
+text-decoration: line-through;}
 
 nav{color: magenta;
 text-align: left;}
